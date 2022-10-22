@@ -40,23 +40,23 @@ Se realizara una pagina web la cual automatizando las demandas permitira ahorrar
 ![Diagrama de flujo de Abogabot](images/diagFlujo.png)
 
 ### BUYER PERSONA
-![Buyer Personade Abogabot](images\Buyer_Persona1.png)
-![Buyer Personade Abogabot](images\Buyer_Persona2.png)
+![Buyer Personade Abogabot](images/Buyer_Persona1.png)
+![Buyer Personade Abogabot](images/Buyer_Persona2.png)
 ### PUBLICO OBJETIVO
-![Publico Objetivo Abogabot](images\Target Audience.jpg)
+![Publico Objetivo Abogabot](images/Target Audience.jpg)
 
 ### WIREFRAME UX
 #### Página Web
-![Wireframe UX Abogabot](images\Abogabot_UX\PWEB.png)
+![Wireframe UX Abogabot](images/Abogabot_UX/PWEB.png)
 ####  Acceso a cuenta
-![Wireframe UX Abogabot](images\Abogabot_UX\Cuenta.png)
+![Wireframe UX Abogabot](images/Abogabot_UX/Cuenta.png)
 #### Nuevo Usuario
-![Wireframe UX Abogabot](images\Abogabot_UX\NuevoUsu.png)
+![Wireframe UX Abogabot](images/Abogabot_UX/NuevoUsu.png)
 ####  Usuario
 [Wireframe UX Usuario](UX_usu.md)
 ####  Cliente
 [Wireframe UX Cliente](UX_Cliente.md)
 ### WIREFRAME UI
-![Wireframe UI](images\Abogabot_UI.png)
+![Wireframe UI](images/Abogabot_UI.png)
 
 
