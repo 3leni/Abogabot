@@ -4,7 +4,7 @@
 ## Menú
 ![Usu](images/Abogabot_UX/Menú.png)
 ## Formulario
-![usu](images/Abogabot_UX/Formulario .png)
+![usu](images/Abogabot_UX/Formulario1.png)
 ## Proceso de Pago
 ![usu](images/Abogabot_UX/ProcesoPago_Desc.png)
 ## Proceso de Pago Opción Efectivo
