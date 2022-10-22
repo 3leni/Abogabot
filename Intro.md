@@ -43,7 +43,7 @@ Se realizara una pagina web la cual automatizando las demandas permitira ahorrar
 ![Buyer Personade Abogabot](images/Buyer_Persona1.png)
 ![Buyer Personade Abogabot](images/Buyer_Persona2.png)
 ### PUBLICO OBJETIVO
-![Publico Objetivo Abogabot](images/Target Audience.jpg)
+![Publico Objetivo Abogabot](images/'Target Audience.jpg')
 
 ### WIREFRAME UX
 #### Página Web
