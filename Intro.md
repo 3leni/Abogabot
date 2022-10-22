@@ -37,7 +37,7 @@ Se realizara una pagina web la cual automatizando las demandas permitira ahorrar
 - Eficiencia: El tiempo de respuesta para que el administrador pueda tener la informacion de las demandas y los pagos
 
 ### DIAGRAMA DE FLUJO
-![Diagrama de flujo de Abogabot](Abogabit/images\diagFlujo.png)
+![Diagrama de flujo de Abogabot](Abogabot\images\diagFlujo.png)
 
 ### BUYER PERSONA
 ![Buyer Personade Abogabot](images\Buyer_Persona1.png)
